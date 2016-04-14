@@ -2,10 +2,9 @@
 
 ## Email Services
 
-TinyLetter, https://tinyletter.com/
+1. TinyLetter, https://tinyletter.com/
 
 ## Continuous Integration
 
-Travis CI, https://travis-ci.org/
-
-CircleCI, https://circleci.com/
+1. Travis CI, https://travis-ci.org/
+1. CircleCI, https://circleci.com/
